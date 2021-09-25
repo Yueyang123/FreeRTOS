@@ -1,0 +1,12 @@
+..\obj\key.o: ..\HARDWARE\KEY\KEY.c
+..\obj\key.o: ..\HARDWARE\KEY\KEY.h
+..\obj\key.o: ..\SYSTEM\sys\sys.h
+..\obj\key.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\key.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\key.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\key.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\key.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\key.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\key.o: ..\SYSTEM\delay\delay.h
+..\obj\key.o: ..\HARDWARE\LED\LED.h

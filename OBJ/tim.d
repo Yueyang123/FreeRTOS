@@ -1,0 +1,11 @@
+..\obj\tim.o: ..\HARDWARE\TIM\TIM.c
+..\obj\tim.o: ..\HARDWARE\TIM\TIM.h
+..\obj\tim.o: ..\SYSTEM\sys\sys.h
+..\obj\tim.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\tim.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\tim.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\tim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tim.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\tim.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\tim.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\tim.o: ..\HARDWARE\LED\LED.h

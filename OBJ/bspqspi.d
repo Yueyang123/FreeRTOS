@@ -1,0 +1,10 @@
+..\obj\bspqspi.o: ..\HARDWARE\W25Q64\BSPQSPI.c
+..\obj\bspqspi.o: ..\HARDWARE\W25Q64\BSPQSPI.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\sys.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\bspqspi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\bspqspi.o: ..\SYSTEM\sys\system_stm32h7xx.h

@@ -1,0 +1,33 @@
+{
+    // 文件头部注释
+    "fileheader.customMade": {
+        "Descripttion": "",
+        "Version": "V1.0",
+        "Author": "YURI",
+        "Email": "1700695611@qq.com",
+        "Website":"www.heredifferent.com.cn",
+        "Date": "Do not edit",
+        "LastEditors": "YURI",
+        "LastEditTime": "Do not Edit"
+    },
+    //函数注释
+    "fileheader.cursorMode": {
+        "name": "",
+        "msg": "",
+        "param": "",
+        "return": ""
+    },
+    "files.associations": {
+        "led.h": "c",
+        "sys.h": "c",
+        "stm32h7xx.h": "c",
+        "stm32h750xx.h": "c",
+        "core_cm7.h": "c",
+        "cmsis_compiler.h": "c",
+        "key.h": "c",
+        "malloc.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.encoding": "gb2312"
+
+}

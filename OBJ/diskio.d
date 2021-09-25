@@ -1,0 +1,13 @@
+..\obj\diskio.o: ..\FatFs\diskio.c
+..\obj\diskio.o: ..\FatFs\diskio.h
+..\obj\diskio.o: ..\FatFs\integer.h
+..\obj\diskio.o: ..\HARDWARE\W25Q64\W25Q64.h
+..\obj\diskio.o: ..\SYSTEM\sys\sys.h
+..\obj\diskio.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\diskio.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\diskio.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\diskio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\diskio.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\diskio.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\diskio.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\diskio.o: ..\HARDWARE\SD\sdmmc_sdcard.h

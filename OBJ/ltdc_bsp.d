@@ -1,0 +1,10 @@
+..\obj\ltdc_bsp.o: ..\HARDWARE\LTDC\LTDC_BSP.c
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\sys.h
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\ltdc_bsp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\ltdc_bsp.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\ltdc_bsp.o: ..\HARDWARE\LTDC\LTDC_BSP.h

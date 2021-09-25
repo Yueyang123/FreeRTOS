@@ -1,0 +1,12 @@
+..\obj\led.o: ..\HARDWARE\LED\LED.c
+..\obj\led.o: ..\HARDWARE\LED\LED.h
+..\obj\led.o: ..\SYSTEM\sys\sys.h
+..\obj\led.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\led.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\led.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\led.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\led.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\led.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\led.o: ..\SYSTEM\usart\usart.h
+..\obj\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

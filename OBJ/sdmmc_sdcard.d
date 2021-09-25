@@ -1,0 +1,13 @@
+..\obj\sdmmc_sdcard.o: ..\HARDWARE\SD\sdmmc_sdcard.c
+..\obj\sdmmc_sdcard.o: ..\HARDWARE\SD\sdmmc_sdcard.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\sys.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\sdmmc_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\sdmmc_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\sdmmc_sdcard.o: ..\SYSTEM\usart\usart.h
+..\obj\sdmmc_sdcard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

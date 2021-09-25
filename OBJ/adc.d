@@ -1,0 +1,11 @@
+..\obj\adc.o: ..\HARDWARE\ADC\ADC.c
+..\obj\adc.o: ..\HARDWARE\ADC\ADC.h
+..\obj\adc.o: ..\SYSTEM\sys\sys.h
+..\obj\adc.o: ..\SYSTEM\sys\stm32h7xx.h
+..\obj\adc.o: ..\SYSTEM\sys\stm32h750xx.h
+..\obj\adc.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\adc.o: ..\SYSTEM\sys\cmsis_compiler.h
+..\obj\adc.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\adc.o: ..\SYSTEM\sys\system_stm32h7xx.h
+..\obj\adc.o: ..\SYSTEM\delay\delay.h
